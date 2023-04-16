@@ -1,5 +1,5 @@
 import React from 'react';
-import myPhoto from '../assets/images/my-photo.jpg'; // import photo here.
+import myPhoto from '../assets/images/placeholder_image.jpg'; // import photo here.
 
 function About() {
   return (
