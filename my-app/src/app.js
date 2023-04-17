@@ -5,6 +5,8 @@ import Projects from './components/Projects.js';
 import Contact from './components/Contact.js';
 import Resume from './components/Resume.js';
 import myResume from './assets/my_resume.pdf';
+import './App.css';
+
 
 function App() {
   return (
